@@ -1,0 +1,33 @@
+{
+  "status_code": 200,
+  "datas": [
+    {
+      "id": 1,
+      "nama": "Chicken Katsu",
+      "harga": 11000,
+      "tipe": "makanan",
+      "gambar": "https://tes-mobile.landa.id/img/chicken-katsu.png"
+    },
+    {
+      "id": 2,
+      "nama": "Chicken Slam",
+      "harga": 9000,
+      "tipe": "makanan",
+      "gambar": "https://tes-mobile.landa.id/img/chicken-slam.png"
+    },
+    {
+      "id": 3,
+      "nama": "Blue Blood",
+      "harga": 8000,
+      "tipe": "minuman",
+      "gambar": "https://tes-mobile.landa.id/img/blue-blood.png"
+    },
+    {
+      "id": 4,
+      "nama": "Dark Chocolate",
+      "harga": 12000,
+      "tipe": "minuman",
+      "gambar": "https://tes-mobile.landa.id/img/dark-chocolate.png"
+    }
+  ]
+}

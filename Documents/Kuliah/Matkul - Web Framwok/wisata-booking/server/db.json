@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user@gmail.com",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2@gmail.com",
+      "password": "password2"
+    },
+    {
+      "id": "606d",
+      "username": "nurlinda@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "24c0",
+      "username": "stimata@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "980e",
+      "name": "Test",
+      "email": "test@gmail.com",
+      "date": "2024-06-19",
+      "time": "15:21",
+      "tickets": 2,
+      "isCheckIn": false,
+      "placeId": "1",
+      "placeName": "Tumpak Sewu Waterfall",
+      "placeDescription": "Tumpak Sewu, also known as Coban Sewu, is a tiered waterfall that is located between the Pronojiwo District, Lumajang Regency, and the Ampelgading District, Malang Regency, in East Java, Indonesia",
+      "placeImageUrl": "https://asset-2.tstatic.net/surabaya/foto/bank/images/air-terjun-tumpak-sewu-lumajang.jpg",
+      "price": 25000,
+      "totalPrice": 50000,
+      "idUser": "1",
+      "tanggal": "2024-06-15T17:36"
+    },
+    {
+      "id": "5ede",
+      "name": "test",
+      "email": "test@gmail.com",
+      "date": "2024-06-20",
+      "time": "19:45",
+      "tickets": 2,
+      "isCheckIn": false,
+      "placeId": "6",
+      "placeName": "Wonosari Tea Plantation",
+      "placeDescription": "The location actually is close to Lawang town (although the area already consider Singosari county). We can visit the plantation area with a small car provided by them (but need to pay IDR 10,000). The tea factory visit also available there, but only open on the working day only.",
+      "placeImageUrl": "https://agusbakrie.com/wp-content/uploads/2022/07/Kebun-teh-Lawang-020722-1071a.jpg",
+      "price": 25000,
+      "totalPrice": 50000,
+      "idUser": "606d"
+    },
+    {
+      "id": "ad76",
+      "name": "Linda",
+      "email": "linda@gmail.com",
+      "date": "2024-06-22",
+      "time": "22:26",
+      "tickets": 2,
+      "isCheckIn": false,
+      "placeId": "5",
+      "placeName": "Tiga Warna Beach",
+      "placeDescription": "Pantai Tiga Warna (Three Colors Beach) by light boat which took 15 minutes to get there.The beach is under control of local Forestry Administration which has strict rules in order to keep the beach clean and tidy. Leaving any garbage in the beach would be subject to penalty.",
+      "placeImageUrl": "https://www.cekpremi.com/blog/wp-content/uploads/2021/05/Pantai-Tiga-Warna.jpg",
+      "price": 25000,
+      "totalPrice": 50000,
+      "idUser": "24c0",
+      "paymentStatus": true
+    }
+  ],
+  "places": [
+    {
+      "id": "1",
+      "name": "Tumpak Sewu Waterfall",
+      "description": "Tumpak Sewu, also known as Coban Sewu, is a tiered waterfall that is located between the Pronojiwo District, Lumajang Regency, and the Ampelgading District, Malang Regency, in East Java, Indonesia",
+      "imageUrl": "https://asset-2.tstatic.net/surabaya/foto/bank/images/air-terjun-tumpak-sewu-lumajang.jpg",
+      "price": 25000
+    },
+    {
+      "id": "2",
+      "name": "Purwodadi Botanical Garden",
+      "description": "Purwodadi Botanical Garden is a research centre in Purwodadi, Pasuruan, East Java, Indonesia. It has an area of 85 hectares and more than 10,000 types of trees and many plant collections. Callus cultures of Agave amaniensis by Setia Dewi were taken in 1988",
+      "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/keczi03qk5ucamkb0r3v/Kebun%20Raya%20Ticket%20in%20Purwodadi.jpg",
+      "price": 75000
+    },
+    {
+      "id": "3",
+      "name": "Nganteb Beach",
+      "description": "Ngantep Beach is located in Sukorejo Hamlet, Tumpakrejo Village, Gedangan District, Malang Regency, East Java. This beach is managed by Perhutani and the community around Ngantep Beach. The road to Ngantep Beach is quite easy to get through by private vehicle.",
+      "imageUrl": "https://o-cdn-cas.sirclocdn.com/parenting/images/27580700_567024450316257_43773863.width-800.format-webp.webp",
+      "price": 15000
+    },
+    {
+      "id": "4",
+      "name": "Coban Rondo waterfall",
+      "description": "Coban Rondo waterfall is a beautiful water fall on the slope of Mount Panderman resort that is about 32 km to the west from Malang, it is very interesting to see and visit.The height of waterfall is about 60 meter.",
+      "imageUrl": "https://i0.wp.com/www.anekatrip.com/wp-content/uploads/2019/09/coban-rondo-1.jpg",
+      "price": 35000
+    },
+    {
+      "id": "5",
+      "name": "Tiga Warna Beach",
+      "description": "Pantai Tiga Warna (Three Colors Beach) by light boat which took 15 minutes to get there.The beach is under control of local Forestry Administration which has strict rules in order to keep the beach clean and tidy. Leaving any garbage in the beach would be subject to penalty.",
+      "imageUrl": "https://www.cekpremi.com/blog/wp-content/uploads/2021/05/Pantai-Tiga-Warna.jpg",
+      "price": 25000
+    },
+    {
+      "id": "6",
+      "name": "Wonosari Tea Plantation",
+      "description": "The location actually is close to Lawang town (although the area already consider Singosari county). We can visit the plantation area with a small car provided by them (but need to pay IDR 10,000). The tea factory visit also available there, but only open on the working day only.",
+      "imageUrl": "https://agusbakrie.com/wp-content/uploads/2022/07/Kebun-teh-Lawang-020722-1071a.jpg",
+      "price": 25000
+    }
+  ]
+}
